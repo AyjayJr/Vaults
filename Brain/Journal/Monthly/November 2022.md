@@ -1,0 +1,6 @@
+- [[SCHOOL HUB|finish assignments]]
+- [[Collision Updates|bring car to caliber collision]]
+- [[Update Resume]]
+- don't forget to cancel spring loan ✅
+	- contact servicer for standard repayment plan
+- [[SWE HUB|create plan of study for leetcode and job interviews]]

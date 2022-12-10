@@ -1,1 +1,0 @@
-https://zettelkasten.de/introduction/

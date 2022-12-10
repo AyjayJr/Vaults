@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff145d2dcdc5b03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/REALITYFLOW HUB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7aad6ad46d2839f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCHOOL HUB.md",
+                "file": "Hobbies/Random things that I'm interested in.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
       {
         "id": "d216f900da2533db",
         "type": "tabs",
-        "dimension": 49.64028776978417,
+        "dimension": 33.01435406698564,
         "children": [
           {
             "id": "dd5a49bfc4bb0d3c",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCHOOL HUB.md",
+                "file": "Hobbies/Random things that I'm interested in.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCHOOL HUB.md",
+                "file": "Hobbies/Random things that I'm interested in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCHOOL HUB.md"
+                "file": "Hobbies/Random things that I'm interested in.md"
               }
             }
           }
@@ -165,7 +152,7 @@
       {
         "id": "9afe993764a69a8b",
         "type": "tabs",
-        "dimension": 50.359712230215834,
+        "dimension": 66.98564593301435,
         "children": [
           {
             "id": "d1eaefa2a3504083",
@@ -181,17 +168,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2db25c5e6695cd5e",
+  "active": "7aad6ad46d2839f3",
   "lastOpenFiles": [
-    "School/NN Module.md",
-    "School/ROBOT VISION HUB.md",
-    "SCHOOL HUB.md",
-    "Arch Linux installation.md",
-    "School/SSU Assault Rifle.md",
+    "Hobbies/Raspberry Pi.md",
+    "Journal/Monthly/2022-12.md",
     "Career/SWE HUB.md",
-    "School/REALITYFLOW HUB.md",
-    "Wellness/Obsidian TODO.md",
-    "The Zettelkasten Method.md",
-    "Templates/Daily Note Template.md"
+    "Hobbies/Side Hustle.md",
+    "Hobbies/Update Resume.md",
+    "Journal/Daily/22-05-11.md",
+    "Arch Linux installation.md",
+    "Career/IT Security Jobs.md",
+    "School/ROBOT VISION HUB.md",
+    "SCHOOL HUB.md"
   ]
 }

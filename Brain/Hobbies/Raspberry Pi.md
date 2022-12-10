@@ -11,6 +11,8 @@
 - Sd Reader ✅
 - power supply ✅
 
+How to set up pi on the network so that I can ssh into it??
+
 # Pihole/Docker Set up 
 
 Follow this tutorial for basic raspberry pi set up and pihole/unbound settings:

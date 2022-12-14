@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Random things that I'm interested in.md",
+                "file": "JavaScript DS&A practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Random things that I'm interested in.md",
+                "file": "JavaScript DS&A practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Random things that I'm interested in.md",
+                "file": "JavaScript DS&A practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Random things that I'm interested in.md"
+                "file": "JavaScript DS&A practice.md"
               }
             }
           }
@@ -170,15 +170,15 @@
   },
   "active": "7aad6ad46d2839f3",
   "lastOpenFiles": [
+    "SCHOOL HUB.md",
+    "JavaScript DS&A practice.md",
+    "Arch Linux installation.md",
+    "Career/SWE HUB.md",
+    "Hobbies/Random things that I'm interested in.md",
     "Hobbies/Raspberry Pi.md",
     "Journal/Monthly/2022-12.md",
-    "Career/SWE HUB.md",
     "Hobbies/Side Hustle.md",
     "Hobbies/Update Resume.md",
-    "Journal/Daily/22-05-11.md",
-    "Arch Linux installation.md",
-    "Career/IT Security Jobs.md",
-    "School/ROBOT VISION HUB.md",
-    "SCHOOL HUB.md"
+    "Journal/Daily/22-05-11.md"
   ]
 }

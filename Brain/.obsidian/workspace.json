@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7aad6ad46d2839f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript DS&A practice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93279402273fcc6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React HUB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "23013539f45dbd18",
             "type": "leaf",
             "state": {
@@ -42,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "318564dbb89ce4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React HUB.md",
+                "file": "React basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React HUB.md",
+                "file": "React basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React HUB.md"
+                "file": "React basics.md"
               }
             }
           }
@@ -193,17 +181,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "23013539f45dbd18",
+  "active": "318564dbb89ce4f9",
   "lastOpenFiles": [
-    "Getting Started with React.md",
     "React HUB.md",
+    "React basics.md",
+    "JavaScript Refresher.md",
     "JavaScript DS&A practice.md",
+    "Getting Started with React.md",
     "Journal/Daily/2022-12-19.md",
     "SCHOOL HUB.md",
     "Arch Linux installation.md",
     "Career/SWE HUB.md",
-    "Hobbies/Random things that I'm interested in.md",
-    "Hobbies/Raspberry Pi.md",
-    "Journal/Monthly/2022-12.md"
+    "Hobbies/Random things that I'm interested in.md"
   ]
 }

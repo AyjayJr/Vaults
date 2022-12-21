@@ -28,3 +28,16 @@ Create a window which can either be an array or a number from one position to an
 The window either increases or closes depending on the conditions
 
 Very useful for keeping track of a subset of data in an array/string etc.
+
+The window can be a single variable, sub array, or even a string.
+
+Usually move from left to right.
+
+---
+## Divide and conquer
+
+Involves dividing a data set into smaler chunks and then repeating a process with a subset of data.
+
+This pattern can tremendously decrease time complexity.
+
+e.g. Binary Search/Mergesort

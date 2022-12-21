@@ -1,4 +1,3 @@
-
 ![[next-gen-js-summary.pdf]]
 
 ---

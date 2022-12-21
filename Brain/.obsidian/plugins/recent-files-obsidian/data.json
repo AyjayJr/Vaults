@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "React basics",
-      "path": "React basics.md"
+      "basename": "Summary and Core Features",
+      "path": "Summary and Core Features.md"
     },
     {
       "basename": "React HUB",
       "path": "React HUB.md"
+    },
+    {
+      "basename": "Getting Started with React",
+      "path": "Getting Started with React.md"
     },
     {
       "basename": "JavaScript DS&A practice",
@@ -17,8 +21,8 @@
       "path": "JavaScript Refresher.md"
     },
     {
-      "basename": "Getting Started with React",
-      "path": "Getting Started with React.md"
+      "basename": "React basics",
+      "path": "React basics.md"
     },
     {
       "basename": "2022-12-19",

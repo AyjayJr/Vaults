@@ -1,64 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Recursion",
-      "path": "Recursion.md"
-    },
-    {
-      "basename": "Javascript DSA",
-      "path": "Javascript DSA.md"
-    },
-    {
-      "basename": "Problem solving patterns",
-      "path": "Problem solving patterns.md"
-    },
-    {
-      "basename": "React HUB",
-      "path": "React HUB.md"
-    },
-    {
       "basename": "Summary and Core Features",
       "path": "Summary and Core Features.md"
-    },
-    {
-      "basename": "Getting Started with React",
-      "path": "Getting Started with React.md"
-    },
-    {
-      "basename": "JavaScript Refresher",
-      "path": "JavaScript Refresher.md"
-    },
-    {
-      "basename": "React basics",
-      "path": "React basics.md"
-    },
-    {
-      "basename": "2022-12-19",
-      "path": "Journal/Daily/2022-12-19.md"
     },
     {
       "basename": "SCHOOL HUB",
       "path": "SCHOOL HUB.md"
     },
     {
-      "basename": "Arch Linux installation",
-      "path": "Arch Linux installation.md"
+      "basename": "next-gen-js-summary",
+      "path": "Archive/Attachments/next-gen-js-summary.pdf"
     },
     {
-      "basename": "SWE HUB",
-      "path": "Career/SWE HUB.md"
+      "basename": "This is the first note",
+      "path": "Archive/This is the first note.md"
     },
     {
       "basename": "Random things that I'm interested in",
       "path": "Hobbies/Random things that I'm interested in.md"
-    },
-    {
-      "basename": "Raspberry Pi",
-      "path": "Hobbies/Raspberry Pi.md"
-    },
-    {
-      "basename": "2022-12",
-      "path": "Journal/Monthly/2022-12.md"
     },
     {
       "basename": "Side Hustle",
@@ -69,20 +29,80 @@
       "path": "Hobbies/Update Resume.md"
     },
     {
-      "basename": "22-05-11",
-      "path": "Journal/Daily/22-05-11.md"
+      "basename": "Javascript DSA",
+      "path": "Javascript DSA.md"
+    },
+    {
+      "basename": "SWE HUB",
+      "path": "Career/SWE HUB.md"
+    },
+    {
+      "basename": "Security certifications",
+      "path": "Career/Security certifications.md"
     },
     {
       "basename": "IT Security Jobs",
       "path": "Career/IT Security Jobs.md"
     },
     {
-      "basename": "ROBOT VISION HUB",
-      "path": "School/ROBOT VISION HUB.md"
+      "basename": "2022-W49",
+      "path": "Journal/Weekly/2022-W49.md"
     },
     {
-      "basename": "Security certifications",
-      "path": "Career/Security certifications.md"
+      "basename": "2022-12",
+      "path": "Journal/Monthly/2022-12.md"
+    },
+    {
+      "basename": "November 2022",
+      "path": "Journal/Monthly/November 2022.md"
+    },
+    {
+      "basename": "22-05-11",
+      "path": "Journal/Daily/22-05-11.md"
+    },
+    {
+      "basename": "Building my web page",
+      "path": "Programming/Building my web page.md"
+    },
+    {
+      "basename": "React basics",
+      "path": "React basics.md"
+    },
+    {
+      "basename": "React HUB",
+      "path": "React HUB.md"
+    },
+    {
+      "basename": "Recursion",
+      "path": "Recursion.md"
+    },
+    {
+      "basename": "Problem solving patterns",
+      "path": "Problem solving patterns.md"
+    },
+    {
+      "basename": "Getting Started with React",
+      "path": "Getting Started with React.md"
+    },
+    {
+      "basename": "JavaScript Refresher",
+      "path": "JavaScript Refresher.md"
+    },
+    {
+      "basename": "2022-12-19",
+      "path": "Journal/Daily/2022-12-19.md"
+    },
+    {
+      "basename": "Arch Linux installation",
+      "path": "Arch Linux installation.md"
+    },
+    {
+      "basename": "Raspberry Pi",
+      "path": "Hobbies/Raspberry Pi.md"
+    },
+    {
+      "basename": "ROBOT VISION HUB",
+      "path": "School/ROBOT VISION HUB.md"
     },
     {
       "basename": "2022-12-07",

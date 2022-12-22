@@ -15,3 +15,9 @@ Still need to:
 - Revise bullet points to utilize more buzzwords
 - Incorporate critiques from other people
 - Jira is a skill i can add, Note taking as well, AGILE, REST
+
+# Phase 3
+
+Need to tailor my resume more towards front end web development asap
+
+Incorporate react projects

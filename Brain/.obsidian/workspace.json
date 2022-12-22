@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion.md",
+                "file": "Summary and Core Features.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion.md",
+                "file": "Summary and Core Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion.md",
+                "file": "Summary and Core Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion.md"
+                "file": "Summary and Core Features.md"
               }
             }
           }
@@ -219,15 +219,15 @@
   },
   "active": "61d2ce8bd6b50890",
   "lastOpenFiles": [
-    "Javascript DSA.md",
-    "Problem solving patterns.md",
-    "React HUB.md",
-    "Summary and Core Features.md",
-    "Getting Started with React.md",
-    "JavaScript Refresher.md",
-    "React basics.md",
-    "Journal/Daily/2022-12-19.md",
     "SCHOOL HUB.md",
-    "Arch Linux installation.md"
+    "Archive/Attachments/next-gen-js-summary.pdf",
+    "Archive/This is the first note.md",
+    "Hobbies/Random things that I'm interested in.md",
+    "Hobbies/Side Hustle.md",
+    "Hobbies/Update Resume.md",
+    "Javascript DSA.md",
+    "Career/SWE HUB.md",
+    "Career/Security certifications.md",
+    "Career/IT Security Jobs.md"
   ]
 }

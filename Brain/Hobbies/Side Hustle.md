@@ -1,3 +1,3 @@
 - Custom gameboy colors / consoles
 - Custom wiis
-	- use the ones that are laying
+	- use the ones that are laying around

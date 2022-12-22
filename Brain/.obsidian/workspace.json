@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary and Core Features.md",
+                "file": "Problem solving patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8574ab1f9ea82bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61d2ce8bd6b50890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recursion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary and Core Features.md",
+                "file": "Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary and Core Features.md",
+                "file": "Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary and Core Features.md"
+                "file": "Recursion.md"
               }
             }
           }
@@ -193,17 +217,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e93a37d2e9aadcbe",
+  "active": "61d2ce8bd6b50890",
   "lastOpenFiles": [
+    "Javascript DSA.md",
+    "Problem solving patterns.md",
     "React HUB.md",
+    "Summary and Core Features.md",
     "Getting Started with React.md",
-    "JavaScript DS&A practice.md",
     "JavaScript Refresher.md",
     "React basics.md",
     "Journal/Daily/2022-12-19.md",
     "SCHOOL HUB.md",
-    "Arch Linux installation.md",
-    "Career/SWE HUB.md",
-    "Hobbies/Random things that I'm interested in.md"
+    "Arch Linux installation.md"
   ]
 }

@@ -21,6 +21,7 @@ Dynamic expressions are denoted by '{ }'
 
 Use '{ }' to evaluate the attribute values stored in props e.g. { props.text }
 
+---
 ## Handling Events
 
 ### Reminder
@@ -43,3 +44,14 @@ Usually you would want to point to another function that is nested within the fu
 When pointing to a named function remember note to use parans e.g. onClick={deleteHandler}
 
 This is because the function would execute too early if you put the parantheses
+
+---
+## States
+
+Import { useState } from 'react';
+- useState is a react hook
+- calling useState creates a state that react is aware of.
+- it returns an array of two values the state and a method to set that state
+	- e.g. [ state, setState ] = useState(false);
+
+After creating a state, you can dynamically render certain components depending on what state you are in e.g. { modalIsOpen && <Modal/> }

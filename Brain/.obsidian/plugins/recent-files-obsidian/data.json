@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "React HUB",
+      "path": "React HUB.md"
+    },
+    {
+      "basename": "React basics",
+      "path": "React basics.md"
+    },
+    {
       "basename": "Summary and Core Features",
       "path": "Summary and Core Features.md"
+    },
+    {
+      "basename": "Recursion",
+      "path": "Recursion.md"
+    },
+    {
+      "basename": "Javascript DSA",
+      "path": "Javascript DSA.md"
     },
     {
       "basename": "SCHOOL HUB",
@@ -27,10 +43,6 @@
     {
       "basename": "Update Resume",
       "path": "Hobbies/Update Resume.md"
-    },
-    {
-      "basename": "Javascript DSA",
-      "path": "Javascript DSA.md"
     },
     {
       "basename": "SWE HUB",
@@ -63,18 +75,6 @@
     {
       "basename": "Building my web page",
       "path": "Programming/Building my web page.md"
-    },
-    {
-      "basename": "React basics",
-      "path": "React basics.md"
-    },
-    {
-      "basename": "React HUB",
-      "path": "React HUB.md"
-    },
-    {
-      "basename": "Recursion",
-      "path": "Recursion.md"
     },
     {
       "basename": "Problem solving patterns",

@@ -55,3 +55,13 @@ Import { useState } from 'react';
 	- e.g. [ state, setState ] = useState(false);
 
 After creating a state, you can dynamically render certain components depending on what state you are in e.g. { modalIsOpen && <Modal/> }
+
+---
+## Event Props
+
+you can pass functions as props as well.
+
+This is useful because our own custom components don't have any event handlers built in such as onClick.
+
+---
+## Routing

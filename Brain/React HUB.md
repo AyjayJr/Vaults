@@ -7,7 +7,7 @@ In Order:
 - [[React basics]]
 
 
-Decided to do a breadth first approach to the course:
+Decided to do a breadth first approach to the course just to get some exposure:
 - [[Summary and Core Features]]
 
 

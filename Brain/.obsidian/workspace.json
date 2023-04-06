@@ -13,43 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React HUB.md",
+                "file": "Career/SWE HUB.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e93a37d2e9aadcbe",
+            "id": "0b59d5bce3d92a10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem solving patterns.md",
+                "file": "Todo List React App.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8574ab1f9ea82bc1",
+            "id": "ce55628b7d3e1f55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript DSA.md",
+                "file": "Plan Going Forward.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61d2ce8bd6b50890",
+            "id": "5c4e47d277daf554",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React HUB.md",
+                "file": "Todo List React App.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React HUB.md",
+                "file": "Todo List React App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React HUB.md",
+                "file": "Todo List React App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React HUB.md"
+                "file": "Todo List React App.md"
               }
             }
           }
@@ -217,17 +217,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "61d2ce8bd6b50890",
+  "active": "5c4e47d277daf554",
   "lastOpenFiles": [
-    "React basics.md",
-    "React HUB.md",
-    "Summary and Core Features.md",
-    "Recursion.md",
-    "Javascript DSA.md",
-    "SCHOOL HUB.md",
+    "Plan Going Forward.md",
+    "Portfolio Website.md",
+    "Todo List React App.md",
+    "Archive/Recursion.md",
+    "Career/SWE HUB.md",
+    "Archive/Summary and Core Features.md",
+    "Archive/React basics.md",
+    "Archive/React HUB.md",
+    "Archive/Javascript DSA.md",
+    "Archive/Problem solving patterns.md",
+    "Archive/JavaScript Refresher.md",
+    "Archive/SCHOOL HUB.md",
     "Archive/Attachments/next-gen-js-summary.pdf",
-    "Archive/This is the first note.md",
-    "Hobbies/Random things that I'm interested in.md",
-    "Hobbies/Side Hustle.md"
+    "Archive/This is the first note.md"
   ]
 }

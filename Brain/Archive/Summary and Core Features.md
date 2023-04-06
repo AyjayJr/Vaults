@@ -26,7 +26,7 @@ Use '{ }' to evaluate the attribute values stored in props e.g. { props.text }
 
 ### Reminder
 
-Important to remember that all the jsx elements are just react components thatcome built in. Not to be confused with html elements.
+Important to remember that all the jsx elements are just react components that come built in. Not to be confused with html elements.
 
 This matters because you can add certain attributes that you could not add with just html.
 

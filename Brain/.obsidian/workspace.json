@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2657df18a381dc09",
+        "id": "39d230481bebdd82",
         "type": "tabs",
         "children": [
           {
-            "id": "9417ef7d8c69fc8d",
+            "id": "ce329a88708d04e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/SWE HUB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b59d5bce3d92a10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo List React App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce55628b7d3e1f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan Going Forward.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c4e47d277daf554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo List React App.md",
+                "file": "6502 Emulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,10 +59,10 @@
             }
           },
           {
-            "id": "7d97ba85c066751c",
+            "id": "e4bc3e8e48867a2c",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -131,7 +94,7 @@
       {
         "id": "d216f900da2533db",
         "type": "tabs",
-        "dimension": 33.01435406698564,
+        "dimension": 66.53846153846153,
         "children": [
           {
             "id": "dd5a49bfc4bb0d3c",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo List React App.md",
+                "file": "6502 Emulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo List React App.md",
+                "file": "6502 Emulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo List React App.md"
+                "file": "6502 Emulation.md"
               }
             }
           }
@@ -189,7 +152,7 @@
       {
         "id": "9afe993764a69a8b",
         "type": "tabs",
-        "dimension": 66.98564593301435,
+        "dimension": 33.46153846153846,
         "children": [
           {
             "id": "d1eaefa2a3504083",
@@ -217,21 +180,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5c4e47d277daf554",
+  "active": "ce329a88708d04e6",
   "lastOpenFiles": [
-    "Plan Going Forward.md",
-    "Portfolio Website.md",
+    "Hub Menu.md",
+    "Note Taking Web App.md",
+    "burger menu.md",
+    "markdown.md",
+    "Notes Wireframe.md",
+    "Minimum Requirements.md",
     "Todo List React App.md",
-    "Archive/Recursion.md",
-    "Career/SWE HUB.md",
-    "Archive/Summary and Core Features.md",
-    "Archive/React basics.md",
-    "Archive/React HUB.md",
-    "Archive/Javascript DSA.md",
-    "Archive/Problem solving patterns.md",
-    "Archive/JavaScript Refresher.md",
-    "Archive/SCHOOL HUB.md",
-    "Archive/Attachments/next-gen-js-summary.pdf",
-    "Archive/This is the first note.md"
+    "6502 Emulation.md",
+    "emulation101.com.md",
+    "Portfolio Website.md",
+    "Journal/Daily/2022-11-16.md",
+    "Templates/Weekly Note Template.md",
+    "Journaling.md",
+    "Journal/Daily/Collision Updates.md",
+    "Journal/Monthly/November 2022.md",
+    "Templates/Daily Note Template.md",
+    "Templates/Monthly Note Template.md",
+    "2023-08-09.md",
+    "Journal/Monthly/2022-12.md",
+    "Journal/Weekly/2022-W49.md",
+    "Plan Going Forward.md",
+    "Programming/Building my web page.md",
+    "School/SSU Assault Rifle.md",
+    "School/Whiteboard Nodes.md",
+    "School/RealityFlow General.md",
+    "School/ROBOT VISION HUB.md",
+    "Archive/Attachments/next-gen-js-summary.pdf"
   ]
 }

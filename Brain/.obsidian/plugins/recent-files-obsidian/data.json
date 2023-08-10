@@ -1,152 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "6502 Emulation",
+      "path": "6502 Emulation.md"
+    },
+    {
+      "basename": "Hub Menu",
+      "path": "Hub Menu.md"
+    },
+    {
+      "basename": "Note Taking Web App",
+      "path": "Note Taking Web App.md"
+    },
+    {
+      "basename": "burger menu",
+      "path": "burger menu.md"
+    },
+    {
+      "basename": "markdown",
+      "path": "markdown.md"
+    },
+    {
+      "basename": "Notes Wireframe",
+      "path": "Notes Wireframe.md"
+    },
+    {
+      "basename": "Minimum Requirements",
+      "path": "Minimum Requirements.md"
+    },
+    {
       "basename": "Todo List React App",
       "path": "Todo List React App.md"
-    },
-    {
-      "basename": "Plan Going Forward",
-      "path": "Plan Going Forward.md"
-    },
-    {
-      "basename": "Portfolio Website",
-      "path": "Portfolio Website.md"
-    },
-    {
-      "basename": "Recursion",
-      "path": "Archive/Recursion.md"
-    },
-    {
-      "basename": "SWE HUB",
-      "path": "Career/SWE HUB.md"
-    },
-    {
-      "basename": "Summary and Core Features",
-      "path": "Archive/Summary and Core Features.md"
-    },
-    {
-      "basename": "React basics",
-      "path": "Archive/React basics.md"
-    },
-    {
-      "basename": "React HUB",
-      "path": "Archive/React HUB.md"
-    },
-    {
-      "basename": "Javascript DSA",
-      "path": "Archive/Javascript DSA.md"
-    },
-    {
-      "basename": "Problem solving patterns",
-      "path": "Archive/Problem solving patterns.md"
-    },
-    {
-      "basename": "JavaScript Refresher",
-      "path": "Archive/JavaScript Refresher.md"
-    },
-    {
-      "basename": "SCHOOL HUB",
-      "path": "Archive/SCHOOL HUB.md"
-    },
-    {
-      "basename": "next-gen-js-summary",
-      "path": "Archive/Attachments/next-gen-js-summary.pdf"
-    },
-    {
-      "basename": "This is the first note",
-      "path": "Archive/This is the first note.md"
-    },
-    {
-      "basename": "Random things that I'm interested in",
-      "path": "Hobbies/Random things that I'm interested in.md"
-    },
-    {
-      "basename": "Side Hustle",
-      "path": "Hobbies/Side Hustle.md"
-    },
-    {
-      "basename": "Update Resume",
-      "path": "Hobbies/Update Resume.md"
-    },
-    {
-      "basename": "Security certifications",
-      "path": "Career/Security certifications.md"
-    },
-    {
-      "basename": "IT Security Jobs",
-      "path": "Career/IT Security Jobs.md"
-    },
-    {
-      "basename": "2022-W49",
-      "path": "Journal/Weekly/2022-W49.md"
-    },
-    {
-      "basename": "2022-12",
-      "path": "Journal/Monthly/2022-12.md"
-    },
-    {
-      "basename": "November 2022",
-      "path": "Journal/Monthly/November 2022.md"
-    },
-    {
-      "basename": "22-05-11",
-      "path": "Journal/Daily/22-05-11.md"
-    },
-    {
-      "basename": "Building my web page",
-      "path": "Programming/Building my web page.md"
-    },
-    {
-      "basename": "Getting Started with React",
-      "path": "Archive/Getting Started with React.md"
-    },
-    {
-      "basename": "2022-12-19",
-      "path": "Journal/Daily/2022-12-19.md"
-    },
-    {
-      "basename": "Arch Linux installation",
-      "path": "Archive/Arch Linux installation.md"
-    },
-    {
-      "basename": "Raspberry Pi",
-      "path": "Hobbies/Raspberry Pi.md"
-    },
-    {
-      "basename": "ROBOT VISION HUB",
-      "path": "School/ROBOT VISION HUB.md"
-    },
-    {
-      "basename": "2022-12-07",
-      "path": "Journal/Daily/2022-12-07.md"
-    },
-    {
-      "basename": "SSU Movement improvements",
-      "path": "School/SSU Movement improvements.md"
-    },
-    {
-      "basename": "SPEED STOVE UNIVERSE HUB",
-      "path": "School/SPEED STOVE UNIVERSE HUB.md"
-    },
-    {
-      "basename": "Motion Module",
-      "path": "School/Motion Module.md"
-    },
-    {
-      "basename": "COMPUTER GRAPHICS HUB",
-      "path": "School/COMPUTER GRAPHICS HUB.md"
-    },
-    {
-      "basename": "Research paper",
-      "path": "School/Research paper.md"
-    },
-    {
-      "basename": "REALITYFLOW HUB",
-      "path": "School/REALITYFLOW HUB.md"
-    },
-    {
-      "basename": "NN Module",
-      "path": "School/NN Module.md"
     }
   ],
   "omittedPaths": [],

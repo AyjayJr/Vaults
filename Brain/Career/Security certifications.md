@@ -1,3 +1,0 @@
-- start with security+ 
-- e learn securities junior penetration tester
-- oscp

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6502 Emulation.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "87d27eb706baa3ce",
         "type": "tabs",
-        "dimension": 80.76923076923077,
+        "dimension": 59.51923076923076,
         "children": [
           {
             "id": "2db25c5e6695cd5e",
@@ -65,20 +65,32 @@
               "type": "bookmarks",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "dfea135421913b35",
-        "type": "tabs",
-        "dimension": 19.230769230769234,
-        "children": [
+          },
           {
-            "id": "43a053c0135e1722",
+            "id": "44012fe984b8691e",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5d3429e873f5f2e2",
+        "type": "tabs",
+        "dimension": 40.48076923076923,
+        "children": [
+          {
+            "id": "1d1719411fed578f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
             }
           }
         ]
@@ -94,7 +106,7 @@
       {
         "id": "d216f900da2533db",
         "type": "tabs",
-        "dimension": 66.53846153846153,
+        "dimension": 50,
         "children": [
           {
             "id": "dd5a49bfc4bb0d3c",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6502 Emulation.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,8 +126,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6502 Emulation.md",
-                "collapseAll": false,
+                "file": "Git.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -126,40 +138,29 @@
             }
           },
           {
-            "id": "1d1719411fed578f",
+            "id": "5426fc6a382897f5",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "dc5b9e19823434f0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "6502 Emulation.md"
-              }
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "9afe993764a69a8b",
+        "id": "9b2d074bdee5d980",
         "type": "tabs",
-        "dimension": 33.46153846153846,
+        "dimension": 50,
         "children": [
           {
-            "id": "d1eaefa2a3504083",
+            "id": "dc5b9e19823434f0",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Git.md"
+              }
             }
           }
         ]
@@ -183,13 +184,19 @@
   "active": "ce329a88708d04e6",
   "lastOpenFiles": [
     "Hub Menu.md",
+    "Vim.md",
+    "Git.md",
     "Note Taking Web App.md",
+    "MVC architecture.md",
+    "Emulation.md",
+    "Todo List React App.md",
+    "Logical Operations.md",
+    "CPU Introduction.md",
+    "Binary and Hex.md",
     "burger menu.md",
     "markdown.md",
     "Notes Wireframe.md",
     "Minimum Requirements.md",
-    "Todo List React App.md",
-    "6502 Emulation.md",
     "emulation101.com.md",
     "Portfolio Website.md",
     "Journal/Daily/2022-11-16.md",
@@ -202,12 +209,6 @@
     "2023-08-09.md",
     "Journal/Monthly/2022-12.md",
     "Journal/Weekly/2022-W49.md",
-    "Plan Going Forward.md",
-    "Programming/Building my web page.md",
-    "School/SSU Assault Rifle.md",
-    "School/Whiteboard Nodes.md",
-    "School/RealityFlow General.md",
-    "School/ROBOT VISION HUB.md",
     "Archive/Attachments/next-gen-js-summary.pdf"
   ]
 }

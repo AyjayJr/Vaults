@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "6502 Emulation",
-      "path": "6502 Emulation.md"
+      "basename": "Git",
+      "path": "Git.md"
     },
     {
       "basename": "Hub Menu",
       "path": "Hub Menu.md"
     },
     {
+      "basename": "Vim",
+      "path": "Vim.md"
+    },
+    {
       "basename": "Note Taking Web App",
       "path": "Note Taking Web App.md"
+    },
+    {
+      "basename": "MVC architecture",
+      "path": "MVC architecture.md"
+    },
+    {
+      "basename": "Emulation",
+      "path": "Emulation.md"
+    },
+    {
+      "basename": "Logical Operations",
+      "path": "Logical Operations.md"
+    },
+    {
+      "basename": "CPU Introduction",
+      "path": "CPU Introduction.md"
+    },
+    {
+      "basename": "Binary and Hex",
+      "path": "Binary and Hex.md"
     },
     {
       "basename": "burger menu",

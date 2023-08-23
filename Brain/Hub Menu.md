@@ -7,6 +7,15 @@
 # Various Learning
 ---
 ## Emulation
-- [[6502 Emulation]]
+- [[Emulation]]
 
+## Frameworks
+- [[MVC architecture]]
+
+
+
+# Tools
+---
+- [[Git]]
+- [[Vim]]
 

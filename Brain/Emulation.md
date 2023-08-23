@@ -5,12 +5,14 @@ I'm going to be following along with [Emulator101](http://www.emulator101.com/we
 #emulation #low_level #cpu
 
 ---
-# 6502 Emulation
+# 8080 Emulation
 ### Introduction
 - [[Binary and Hex]]
 - [[CPU Introduction]]
 - [[Logical Operations]]
 - [[Introduction to Assembly]]
 - [[Stacks]]
+
+## 8080 Disassembler
 
 

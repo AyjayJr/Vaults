@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Git",
-      "path": "Git.md"
+      "basename": "Emulation",
+      "path": "Emulation.md"
+    },
+    {
+      "basename": "Diving In",
+      "path": "Diving In.md"
+    },
+    {
+      "basename": "Endianess",
+      "path": "Endianess.md"
+    },
+    {
+      "basename": "Stacks",
+      "path": "Stacks.md"
+    },
+    {
+      "basename": "Introduction to Assembly",
+      "path": "Introduction to Assembly.md"
+    },
+    {
+      "basename": "Logical Operations",
+      "path": "Logical Operations.md"
+    },
+    {
+      "basename": "CPU Introduction",
+      "path": "CPU Introduction.md"
     },
     {
       "basename": "Hub Menu",
       "path": "Hub Menu.md"
+    },
+    {
+      "basename": "Git",
+      "path": "Git.md"
     },
     {
       "basename": "Vim",
@@ -19,18 +47,6 @@
     {
       "basename": "MVC architecture",
       "path": "MVC architecture.md"
-    },
-    {
-      "basename": "Emulation",
-      "path": "Emulation.md"
-    },
-    {
-      "basename": "Logical Operations",
-      "path": "Logical Operations.md"
-    },
-    {
-      "basename": "CPU Introduction",
-      "path": "CPU Introduction.md"
     },
     {
       "basename": "Binary and Hex",

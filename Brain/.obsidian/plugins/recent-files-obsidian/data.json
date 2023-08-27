@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Tables",
+      "path": "Tables.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "MySQL.md"
+    },
+    {
+      "basename": "Databases",
+      "path": "Databases.md"
+    },
+    {
+      "basename": "Hub Menu",
+      "path": "Hub Menu.md"
+    },
+    {
       "basename": "Emulation",
       "path": "Emulation.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "CPU Introduction",
       "path": "CPU Introduction.md"
-    },
-    {
-      "basename": "Hub Menu",
-      "path": "Hub Menu.md"
     },
     {
       "basename": "Git",

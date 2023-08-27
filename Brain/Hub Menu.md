@@ -12,6 +12,12 @@
 ## Frameworks
 - [[MVC architecture]]
 
+## Databases
+- [[MySQL]]
+- 
+- 
+- 
+
 
 
 # Tools

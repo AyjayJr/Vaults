@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emulation.md",
+                "file": "Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "5d3429e873f5f2e2",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emulation.md",
+                "file": "Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emulation.md",
+                "file": "Tables.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emulation.md"
+                "file": "Tables.md"
               }
             }
           }
@@ -183,14 +182,17 @@
   },
   "active": "ce329a88708d04e6",
   "lastOpenFiles": [
+    "MySQL.md",
+    "Databases.md",
+    "Tables.md",
+    "Hub Menu.md",
+    "Emulation.md",
     "Diving In.md",
     "Endianess.md",
-    "Emulation.md",
     "Stacks.md",
     "Introduction to Assembly.md",
     "Logical Operations.md",
     "CPU Introduction.md",
-    "Hub Menu.md",
     "Git.md",
     "Vim.md",
     "Note Taking Web App.md",
@@ -206,9 +208,6 @@
     "Journal/Daily/2022-11-16.md",
     "Templates/Weekly Note Template.md",
     "Journaling.md",
-    "Journal/Daily/Collision Updates.md",
-    "Journal/Monthly/November 2022.md",
-    "Templates/Daily Note Template.md",
     "Archive/Attachments/next-gen-js-summary.pdf"
   ]
 }
